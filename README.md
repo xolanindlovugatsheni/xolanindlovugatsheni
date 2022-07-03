@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>Hello<br>     l’m Founder of XenoGenAI labs project, an AI and computational Science lab.<br>🔭 I’m currently working on a quantum machine learning related project.<br>🌱 I have been  learning Physics and Mathematics, researching in Quantum Physics and Deep/machine Learning.<br>🤝 I’m looking for help with Quantum machine learning<br>👯 I’m looking to collaborate on  AI, Blockchain and Quantum computing with hopes that someday I will work on a project that will bring together.<br>⚡ Fun fact: I don't always make jokes about Quantum Physics, but when I do, I don't
+<br>Hello<br>     l’m Founder of XenoGenAI labs project, an AI and computational Science lab.<br>🔭 I’m currently working on a quantum machine learning related project.<br>🌱 I have been  learning Physics and Mathematics, researching in Quantum Physics and Deep/machine Learning.<br>🤝 I’m looking for help with Quantum machine learning<br>👯 I’m looking to collaborate on  AI, Blockchain and Quantum computing with hopes that someday I will work on a project that will bring these areas together.<br>⚡ Fun fact: I don't always make jokes about Quantum Physics, but when I do, I don't
 
 
 ## 🌐 Socials:
